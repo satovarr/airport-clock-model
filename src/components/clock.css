@@ -1,0 +1,19 @@
+.clck{
+    padding: 0%;
+    margin-top: 80px;
+    border: 0%;
+    border-radius: 100%;
+    border: 0;
+    height: 250px;
+    aspect-ratio:1
+}
+
+.clck--green{
+    background-color: green;
+} 
+.clck--orange{
+    background-color: orange;
+}
+.clck--red{
+    background-color: red;
+}  
